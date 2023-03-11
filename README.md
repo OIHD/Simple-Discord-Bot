@@ -1,5 +1,6 @@
-### README.md
+### README.md   
 
+Bu proje 2020-2021 yılında yazılmıştır . Artık destek vermemekteyim . Belki işinize yarayabilir diye , kaynak olması adına paylaşıldı .
 
 # KOMUTLAR
 ------------
